@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **Frontend, Python, Cyber Security**
 
+- 📫 How to reach me **mauryaumang03@gmail.com**
+
+- ⚡ Fun fact **I think i am an introvert**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
