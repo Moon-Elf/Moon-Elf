@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umang</h1>
 <h3 align="center">A student that is also passionate in being a developer from India</h3>
 
-- 🌱 I’m currently learning **.NET Fullstack **
+- 🌱 I’m currently learning .NET Fullstack
 
 - 📫 How to reach me **mauryaumang03@gmail.com**
 
